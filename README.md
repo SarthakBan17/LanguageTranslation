@@ -2,7 +2,8 @@
 
 This project uses two different datasets, one from Kaggle and one from Hugging Face to perform language translation from english to french. 
 
-Kaggle link: https://www.kaggle.com/datasets/devicharith/language-translation-englishfrench  \\
+Kaggle link: https://www.kaggle.com/datasets/devicharith/language-translation-englishfrench
+
 Hugging Face Link: https://huggingface.co/datasets/opus_books
 
 Steps to run:
